@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<setup>
+	<filelocation drive="1">
+		<driveLetter>D:/HDW</driveLetter>
+                <backupfolder>D:/HDW/Backup</backupfolder>
+	</filelocation>
+</setup>
